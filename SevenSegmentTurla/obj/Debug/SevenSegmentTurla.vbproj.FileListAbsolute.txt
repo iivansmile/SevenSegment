@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\bin\Debug\SevenSegmentTurla.exe.config
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\bin\Debug\SevenSegmentTurla.exe
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\bin\Debug\SevenSegmentTurla.pdb
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\bin\Debug\SevenSegmentTurla.xml
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\obj\Debug\SevenSegmentTurla.vbprojAssemblyReference.cache
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\obj\Debug\SevenSegmentTurla.Form1.resources
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\obj\Debug\SevenSegmentTurla.Resources.resources
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\obj\Debug\SevenSegmentTurla.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\obj\Debug\SevenSegmentTurla.exe
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\obj\Debug\SevenSegmentTurla.xml
+C:\Users\acer\source\repos\SevenSegmentTurla\SevenSegmentTurla\obj\Debug\SevenSegmentTurla.pdb
